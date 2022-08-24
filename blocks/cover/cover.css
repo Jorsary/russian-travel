@@ -1,0 +1,15 @@
+.cover {
+  position: relative;
+  display: grid;
+  max-width: 1184px;
+  width: 100%;
+  height: max-content;
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 1023px) {
+  .cover {
+    padding-top: 2px;
+  }
+}
