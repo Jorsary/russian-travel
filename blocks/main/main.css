@@ -5,3 +5,15 @@
     row-gap: 92px;
     width: 100%;
 }
+
+@media screen and (max-width: 1023px) {
+    .main {
+        row-gap: 88px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .main {
+        row-gap: 64px;
+    }
+}
