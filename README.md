@@ -1,4 +1,4 @@
-# "Russian Traver". Проектная работа созданная на курсе [Яндекс.Практикум](https://praktikum.yandex.ru/).
+# "Russian Travel". Проектная работа созданная на курсе [Яндекс.Практикум](https://praktikum.yandex.ru/).
 
 ## Описание:
 
