@@ -5,10 +5,18 @@
   max-width: 1184px;
   width: 100%;
   box-sizing: border-box;
-  padding: 92px 48px 24px 48px;
+  padding: 92px 0 24px 0;
 }
 
-@media screen and (max-width:1024px) {
+@media screen and (max-width:1279px) {
+  .footer {
+    padding: 88px 48px 24px 48px;
+  }
+
+}
+
+
+@media screen and (max-width:1023px) {
   .footer {
     padding: 88px 24px 24px 24px;
   }
