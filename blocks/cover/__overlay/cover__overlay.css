@@ -7,6 +7,10 @@
   grid-row: 1;
   grid-column: 1;
   z-index: 2;
+  background-image: url(../../../images/cover/cover-trains.png);
+  background-position: center;
+  background-size: cover;
+  height: min(62.5vw, 740px);
 }
 
 .cover__overlay::before {
